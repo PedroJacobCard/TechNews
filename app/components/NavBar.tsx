@@ -1,4 +1,3 @@
-/* eslint-disable react/no-unescaped-entities */
 'use client'
 
 import Link from "next/link";
@@ -38,7 +37,7 @@ function NavBar() {
           </h1>
         </Link>
         <p className="text-sm">
-          Exploring Tomorrow's Inovations,
+          Exploring Tomorrow&apos;s Inovations,
           <br /> One Byte at a Time.
         </p>
       </div>
