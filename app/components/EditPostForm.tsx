@@ -183,7 +183,7 @@ function EditPostForm({ post }: { post: TPost }) {
 
         <div className="flex gap-2">
           <input
-            className="flex-1"
+            className="flex-1 min-w-12"
             type="text"
             placeholder="Place the link and click on add"
             value={linkInput}
